@@ -1,3 +1,6 @@
+1 - Expor um servico de BUSCA DE CEP, porém esta funcionalidade ja existe no site atual, porem nao existe nenhum tipo de webservice. 
+
+
 Eu, como usuário, quero informar meu CEP e obter o nome da minha RUA, BAIRRO, CIDADE e ESTADO para preencher meus dados de cadastro de forma automática.
 
 Os critérios de aceite dessa história são:
