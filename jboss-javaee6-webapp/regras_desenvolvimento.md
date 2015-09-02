@@ -18,3 +18,4 @@ Ao finalizar o desenvolvimento você pode compartilhar o código pelo Github ou 
 Fique a vontade para entrar em contato e tirar dúvidas;
 Juntamente com o Código, deve-se documentar a estratégia utilizada para a criação da aplicação, a arquitetura utilizada e os padrões. A documentação pode ser feita via GIT/Bitbucket ou adicionado no HackerRank. Isto faz parte da avaliação da prova.
 Em caso de uso do Git/Bitbucket não esqueça de criar o .gitignore.
+
